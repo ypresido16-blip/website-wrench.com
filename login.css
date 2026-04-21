@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.second-main-page{
+    position: relative;
+}
+.background-img {
+    width: 50%;
+    height: 100vh;
+    background-image: url("./wrench_bg2.a5b706424c9b1cfe.jpeg");
+    background-size: cover;
+    background-position: center 50%;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-top: 4rem;
+}
+.second-page{
+   
+    color: #efefef;
+    position: absolute;
+    top: 15rem;
+    font-weight: 25;
+    left: 3rem;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    font-weight: bold;
+   
+    
+}
